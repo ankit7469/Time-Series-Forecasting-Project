@@ -71,7 +71,7 @@ All results are visualized using Matplotlib.
 
 ## Code
 Full code is available inside the repository:
-lstm_forecasting.py
+Time Series Forecasting Project.py
 
 Key sections include:
 
